@@ -2,3 +2,4 @@ node_modules/
 router/
 web/
 app.ts
+app.js

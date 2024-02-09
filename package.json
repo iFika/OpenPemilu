@@ -23,7 +23,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "iFika",
   "license": "ISC",
-  "description": ""
+  "description": "Mengambil informasi pemilih dari KPU",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFika/Open_Pemilu.git"
+  },
+  "keywords": [
+    "pemilu"
+  ],
+  "bugs": {
+    "url": "https://github.com/iFika/Open_Pemilu/issues"
+  },
+  "homepage": "https://github.com/iFika/Open_Pemilu#readme"
 }
