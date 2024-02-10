@@ -15,7 +15,7 @@
     "@playwright/test": "^1.41.2"
   },
   "name": "openpemilu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "directories": {
     "lib": "lib"
