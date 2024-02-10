@@ -51,8 +51,6 @@ npm run
 
 Contributions are always welcome!
 
-see `contributing.md` for ways to get started
-
 ## :warning: License
 
 Distributed under the no License. See LICENSE.txt for more information.
