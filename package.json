@@ -29,13 +29,13 @@
   "description": "Mengambil informasi pemilih dari KPU",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iFika/Open_Pemilu.git"
+    "url": "git+https://github.com/iFika/OpenPemilu.git"
   },
   "keywords": [
     "pemilu"
   ],
   "bugs": {
-    "url": "https://github.com/iFika/Open_Pemilu/issues"
+    "url": "https://github.com/iFika/OpenPemilu/issues"
   },
-  "homepage": "https://github.com/iFika/Open_Pemilu#readme"
+  "homepage": "https://github.com/iFika/OpenPemilu#readme"
 }
